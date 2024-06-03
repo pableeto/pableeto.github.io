@@ -33,6 +33,8 @@ My current research interests are multi-modality, 3D generative models, and neur
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications (<a href='https://scholar.google.com/citations?user=hEPx3rwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 (*: Intern at MSRA; †: Equal contribution.)
 

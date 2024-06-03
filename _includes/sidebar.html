@@ -10,5 +10,6 @@
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
   {% endif %}
-  </div>
+  {% include analytics.html %}
+  </div>  
 {% endif %}
