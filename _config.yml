@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiao Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Xiao Li (李潇) - Homepage"
 repository               : "pableeto/pableeto.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Xiao Li (李潇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Senior Researcher @ MSRA"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
