@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiao Li"
-description              : "Blablablabla"
+description              : "Researcher in Multimedia, Vision and Graphics. <br/> Joint Ph.D. of MSRA-USTC."
 repository               : "pableeto/pableeto.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiao Li (李潇)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "Senior Researcher @ MSRA"
   location         : "Beijing, China"
   employer         :

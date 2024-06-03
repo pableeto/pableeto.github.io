@@ -1,13 +1,19 @@
-{% if page.analytics != false %}
+<!-- {% if page.analytics != false %} -->
+
+<div id="cluster-map-container" style="width: 15%; height: 15%; overflow: hidden; margin: 0 auto;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8hdUquO_FNLg3DXppXlPCoAhcvsLILT5GfkoYOm5XKs&cl=ffffff&w=a"></script>
+</div>
+
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', "{{ site.google_analytics_id }}");
-</script>
+</script> -->
 
-{% endif %}
+<!-- {% endif %} -->
