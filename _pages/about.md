@@ -39,30 +39,83 @@ My current research interests are multi-modality, 3D generative models, and neur
 (*: Intern at MSRA; †: Equal contribution.)
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers
-- <img src="https://img.shields.io/badge/ICCV-2023-blue"> [Efficient View Synthesis with Neural Radiance Distribution Field](https://arxiv.org/pdf/2308.11130.pdf), Yushuang Wu*, Xiao Li, Jinglu Wang, Xiaoguang Han, Shuguang Cui, Yan Lu
-- <img src="https://img.shields.io/badge/ICCV-2023-blue"> [R^2-VOS: Robust Referring Video Object Segmentation via Relational Cycle Consistency](https://arxiv.org/pdf/2207.01203.pdf), Xiang Li*, Jinglu Wang, Xiaohao Xu\*, Xiao Li, Yan Lu, Bhiksha Raj
-- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [High-Fidelity and Freely Controllable Talking Head Video Generation](https://arxiv.org/pdf/2304.10168), Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu
-- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [SCoDA: Domain Adaptive Shape Completion for Real Scans](https://arxiv.org/abs/2304.10179.pdf), Yushuang Wu*, Zizheng Yan, Ce Chen, Lai Wei, Xiao Li, Guanbin Li, Yihao Li, Shuguang Cui, Xiaoguang Han
-- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction](https://arxiv.org/pdf/2303.05937), Mingfang Zhang*, Jinglu Wang, Xiao Li, Yifei Huang, Yoichi Sato, Yan Lu
-- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [Two-shot Video Object Segmentation](https://arxiv.org/pdf/2303.12078), Kun Yan*, Xiao Li, Fangyun Wei, Jinglu Wang, Chengbin Zhang, Ping Wang, Yan Lu
-- <img src="https://img.shields.io/badge/ECCV-2022-blue"> [Neural Capture of Animatable 3D Human from Monocular Video](https://arxiv.org/pdf/2208.08728), Gusi Te*, Xiu Li\*, Xiao Li, Jinglu Wang, Wei Hu, Yan Lu
-- <img src="https://img.shields.io/badge/AAAI-2022-blue"> [Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation](https://arxiv.org/pdf/2112.01695), Xiang Li*, Jinglu Wang, Xiao Li, Yan Lu
-- <img src="https://img.shields.io/badge/AAAI-2022-blue"> [Reliable Propagation Correction Modulation for Video Object Segmentation](https://arxiv.org/pdf/2112.02853), Xiaohao Xu*, Jinglu Wang, Xiao Li, Yan Lu
-- <img src="https://img.shields.io/badge/SIGGRAPH-2019-blue"> [Deep Inverse Rendering for High-resolution SVBRDF Estimation from an Arbitrary Number of Images](https://gao-duan.github.io/publications/mvsvbrdf/mvsvbrdf_low_resolution.pdf), Duan Gao\*†, Xiao Li\*†, Yue Dong, Pieter Peers, Xin Tong
-- <img src="https://img.shields.io/badge/CVPR-2019-blue"> [Synthesizing 3D Shapes from Silhouette Image Collections using Multi-projection Generative Adversarial Networks](https://arxiv.org/pdf/1906.03841), Xiao Li*, Yue Dong, Pieter Peers, Xin Tong
-- <img src="https://img.shields.io/badge/CGI-2019-blue"> [Capturing Piecewise SVBRDFs with Content Aware Lighting](https://link.springer.com/chapter/10.1007/978-3-030-22514-8_33), Xiao Li*, Peiran Ren, Yue Dong, Gang Hua, Xin Tong, Baining Guo (Short Paper)
-- <img src="https://img.shields.io/badge/PG-2018-blue"> [Single Photograph Surface Appearance Modeling with Self-augmented CNNs and Inexact Supervision](http://www.cs.wm.edu/~ppeers/publications/Ye2018SPS/Ye_CGF2018.pdf), Wenjie Ye*, Xiao Li\*, Yue Dong, Pieter Peers, Xin Tong
-- <img src="https://img.shields.io/badge/SIGGRAPH-2017-blue"> [Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks](https://arxiv.org/pdf/1809.00886), Xiao Li*, Yue Dong, Pieter Peers, Xin Tong
-- <img src="https://img.shields.io/badge/PG-2013-blue"> [Hair Interpolation for Portrait Morphing](https://lvdiwang.com/publications/hairmorph/2013_hairmorph.pdf), Yanlin Weng, Lvdi Wang, Xiao Li*, Menglei Chai, Kun Zhou
+- <img src="https://img.shields.io/badge/ICCV-2023-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Efficient View Synthesis with Neural Radiance Distribution Field](https://arxiv.org/pdf/2308.11130.pdf)
+
+  Yushuang Wu*, Xiao Li, Jinglu Wang, Xiaoguang Han, Shuguang Cui, Yan Lu
+
+- <img src="https://img.shields.io/badge/ICCV-2023-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/lxa9867/R2VOS) [R^2-VOS: Robust Referring Video Object Segmentation via Relational Cycle Consistency](https://arxiv.org/pdf/2207.01203.pdf)
+
+  Xiang Li*, Jinglu Wang, Xiaohao Xu\*, Xiao Li, Yan Lu, Bhiksha Raj
+
+- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/hologerry/PECHead) [High-Fidelity and Freely Controllable Talking Head Video Generation](https://arxiv.org/pdf/2304.10168)
+  
+  Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu
+
+- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/yushuang-wu/SCoDA) [SCoDA: Domain Adaptive Shape Completion for Real Scans](https://arxiv.org/abs/2304.10179.pdf)
+  
+  Yushuang Wu*, Zizheng Yan, Ce Chen, Lai Wei, Xiao Li, Guanbin Li, Yihao Li, Shuguang Cui, Xiaoguang Han
+
+- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/mf-zhang/Structural-MPI) [Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction](https://arxiv.org/pdf/2303.05937)
+  
+  Mingfang Zhang*, Jinglu Wang, Xiao Li, Yifei Huang, Yoichi Sato, Yan Lu
+
+- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation) [Two-shot Video Object Segmentation](https://arxiv.org/pdf/2303.12078)
+  
+  Kun Yan*, Xiao Li, Fangyun Wei, Jinglu Wang, Chengbin Zhang, Ping Wang, Yan Lu
+
+- <img src="https://img.shields.io/badge/ECCV-2022-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Neural Capture of Animatable 3D Human from Monocular Video](https://arxiv.org/pdf/2208.08728)
+  
+  Gusi Te*, Xiu Li\*, Xiao Li, Jinglu Wang, Wei Hu, Yan Lu
+
+- <img src="https://img.shields.io/badge/AAAI-2022-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation](https://arxiv.org/pdf/2112.01695)
+  
+  Xiang Li*, Jinglu Wang, Xiao Li, Yan Lu
+
+- <img src="https://img.shields.io/badge/AAAI-2022-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/JerryX1110/RPCMVOS) [Reliable Propagation Correction Modulation for Video Object Segmentation](https://arxiv.org/pdf/2112.02853)
+  
+  Xiaohao Xu*, Jinglu Wang, Xiao Li, Yan Lu
+
+- <img src="https://img.shields.io/badge/SIGGRAPH-2019-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/msraig/DeepInverseRendering) [Deep Inverse Rendering for High-resolution SVBRDF Estimation from an Arbitrary Number of Images](https://gao-duan.github.io/publications/mvsvbrdf/mvsvbrdf_low_resolution.pdf)
+  
+  Duan Gao\*†, Xiao Li\*†, Yue Dong, Pieter Peers, Xin Tong
+
+- <img src="https://img.shields.io/badge/CVPR-2019-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/msraig/mp_gan) [Synthesizing 3D Shapes from Silhouette Image Collections using Multi-projection Generative Adversarial Networks](https://arxiv.org/pdf/1906.03841)
+  
+  Xiao Li*, Yue Dong, Pieter Peers, Xin Tong
+
+- <img src="https://img.shields.io/badge/CGI-2019-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Capturing Piecewise SVBRDFs with Content Aware Lighting (Short Paper)](https://link.springer.com/chapter/10.1007/978-3-030-22514-8_33)
+  
+  Xiao Li*, Peiran Ren, Yue Dong, Gang Hua, Xin Tong, Baining Guo
+
+- <img src="https://img.shields.io/badge/PG-2018-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/msraig/InexactSA) [Single Photograph Surface Appearance Modeling with Self-augmented CNNs and Inexact Supervision](http://www.cs.wm.edu/~ppeers/publications/Ye2018SPS/Ye_CGF2018.pdf)
+  
+  Wenjie Ye*, Xiao Li\*, Yue Dong, Pieter Peers, Xin Tong
+
+- <img src="https://img.shields.io/badge/SIGGRAPH-2017-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/msraig/InexactSA) [Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks](https://arxiv.org/pdf/1809.00886)
+  
+  Xiao Li*, Yue Dong, Pieter Peers, Xin Tong
+
+- <img src="https://img.shields.io/badge/PG-2013-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Hair Interpolation for Portrait Morphing](https://lvdiwang.com/publications/hairmorph/2013_hairmorph.pdf)
+  
+  Yanlin Weng, Lvdi Wang, Xiao Li*, Menglei Chai, Kun Zhou
 
 ## <i class="fa fa-paper-plane"></i> Journal Papers
-- <img src="https://img.shields.io/badge/IEEE_TMM-blue"> [Video Instance Segmentation by Instance Flow Assembly](https://arxiv.org/pdf/2110.10599), Xiang Li*, Jinglu Wang, Xiao Li, Yan Lu
-- <img src="https://img.shields.io/badge/IEEE_TIP-blue"> [Unsupervised Temporal Correspondence Learning for Unified Video Object Removal](https://ieeexplore.ieee.org/document/10359477), Zhongdao Wang*, Jinglu Wang, Xiao Li, Ya-Li Li, Yan Lu, Shengjin Wang
-- <img src="https://img.shields.io/badge/ACM_TOMM-blue"> [Distribution Aligned Multimodal and Multi-Domain Image Stylization](https://arxiv.org/pdf/2006.01431), Minxuan Lin, Fan Tang, Weiming Dong, Xiao Li, Chongyang Ma, Changsheng Xu
+- <img src="https://img.shields.io/badge/IEEE_TMM-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Video Instance Segmentation by Instance Flow Assembly](https://arxiv.org/pdf/2110.10599)
+
+  Xiang Li*, Jinglu Wang, Xiao Li, Yan Lu
+
+- <img src="https://img.shields.io/badge/IEEE_TIP-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Unsupervised Temporal Correspondence Learning for Unified Video Object Removal](https://ieeexplore.ieee.org/document/10359477), Zhongdao Wang*, Jinglu Wang, Xiao Li, Ya-Li Li, Yan Lu, Shengjin Wang
+
+- <img src="https://img.shields.io/badge/ACM_TOMM-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Distribution Aligned Multimodal and Multi-Domain Image Stylization](https://arxiv.org/pdf/2006.01431), Minxuan Lin, Fan Tang, Weiming Dong, Xiao Li, Chongyang Ma, Changsheng Xu
 
 ## <i class="fa fa-paper-plane"></i> Preprints
-- <img src="https://img.shields.io/badge/arXiv-blue"> [Estimating Neural Reflectance Field from Radiance Field using Tree Structures](https://arxiv.org/pdf/2210.04217), Xiu Li*, Xiao Li, Yan Lu
-- <img src="https://img.shields.io/badge/arXiv-blue"> [Mimicking the In-Camera Color Pipeline for Camera-Aware Object Compositing](https://arxiv.org/pdf/1903.11248), Jun Gao*, Xiao Li\*, Liwei Wang, Sanja Fidler, Stephen Lin
+- <img src="https://img.shields.io/badge/arXiv-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/leehsiu/nerfactory) [Estimating Neural Reflectance Field from Radiance Field using Tree Structures](https://arxiv.org/pdf/2210.04217)
+  
+  Xiu Li*, Xiao Li, Yan Lu
+
+- <img src="https://img.shields.io/badge/arXiv-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Mimicking the In-Camera Color Pipeline for Camera-Aware Object Compositing](https://arxiv.org/pdf/1903.11248)
+  
+  Jun Gao*, Xiao Li\*, Liwei Wang, Sanja Fidler, Stephen Lin
 
 
 
@@ -83,8 +136,10 @@ My current research interests are multi-modality, 3D generative models, and neur
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<span class='anchor' id='interns'></span>
 
 # 📖 Interns
+- Daniel Shiu-hong Kao, (Ph.D. student, HKUST, 2024.06 - Now)
 - Qi Chen (B.Eng., SJTU, 2023.04 - 2024.05): Now Ph.D. student at SJTU.
 - Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03): Now Ph.D. candidate at CUHK.
 - Kun Yan, (Ph.D. candidate, Peking Univ., 2022.03 - 2023.03):, Now Postdoc at Peking Univ.
