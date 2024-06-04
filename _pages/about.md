@@ -147,10 +147,3 @@ My current research interests are multi-modality, 3D generative models, and neur
 - Gusi Te, (M.S. candidate, Peking Univ., 2021.05 - 2021.12): Now Ph.D. candidate at Peking Univ.
 - Qian Wan, (B.Eng., Wuhan Univ., 2020.09 - 2021.04): Now Ph.D. candidate at City Univ. of Hong Kong.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- # 💻 Experiences
-- *2019.08 - 2020.05*, [Y-Tech Lab, Kuaishou Technology](https://www.kuaishou.com/), Beijing, China.
-- *2020.05 - Now*,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Media Computing Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/media-computing-group/), Beijing, China. -->
