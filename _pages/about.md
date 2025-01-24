@@ -139,9 +139,10 @@ My current research interests are multi-modality, 3D generative models, and neur
 <span class='anchor' id='interns'></span>
 
 # 📖 Interns
-- Daniel Shiu-hong Kao, (Ph.D. student, HKUST, 2024.06 - Now)
-- Qi Chen (B.Eng., SJTU, 2023.04 - 2024.05): Now Ph.D. student at SJTU.
-- Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03): Now Ph.D. candidate at CUHK.
+- Rongyu Chen, (Ph.D. candidate, National University of Singapore, 2025.01 - Current)
+- Daniel Shiu-hong Kao, (M.Phil. student, HKUST, 2024.06 - 2024.12): Incoming Ph.D. student.
+- Qi Chen (B.Eng. student, SJTU, 2023.04 - 2024.05): Now Ph.D. student at SJTU.
+- Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03): Now Algorithm Engineer at ByteDance.
 - Kun Yan, (Ph.D. candidate, Peking Univ., 2022.03 - 2023.03):, Now Postdoc at Peking Univ.
 - Xiu Li, (Ph.D. candidate, Tsinghua Univ., 2021.03 - 2022.03): Now Research Scientist at ByteDance.
 - Gusi Te, (M.S. candidate, Peking Univ., 2021.05 - 2021.12): Now Ph.D. candidate at Peking Univ.
