@@ -113,11 +113,11 @@ My current research interests are multi-modality, 3D generative models, and neur
 ## <i class="fa fa-paper-plane"></i> Preprints
 - <img src="https://img.shields.io/badge/arXiv-blue"> <img src="https://img.shields.io/badge/Paper-red"> StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams
 
-  Shiu-hong Kao*, Xiao Li, Jinglu Wang, Chi-Keung Tang, Yu-Wing Tai, Yan Lu
+  Yang Li*, Jinglu Wang, Lei Chu, Xiao Li, Shiu-Hong Kao\*, Yingcong Chen, Yan Lu
 
 - <img src="https://img.shields.io/badge/arXiv-blue"> <img src="https://img.shields.io/badge/Paper-red"> [UVRM: A Scalable 3D Reconstruction Model from Unposed Videos](https://arxiv.org/pdf/2501.09347)
 
-  Yang Li*, Jinglu Wang, Lei Chu, Xiao Li, Shiu-Hong Kao\*, Yingcong Chen, Yan Lu
+  Shiu-hong Kao*, Xiao Li, Jinglu Wang, Chi-Keung Tang, Yu-Wing Tai, Yan Lu
 
 - <img src="https://img.shields.io/badge/arXiv-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/leehsiu/nerfactory) [Estimating Neural Reflectance Field from Radiance Field using Tree Structures](https://arxiv.org/pdf/2210.04217)
   
