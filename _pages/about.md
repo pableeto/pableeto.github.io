@@ -104,11 +104,21 @@ My current research interests are multi-modality, 3D generative models, and neur
 
   Xiang Li*, Jinglu Wang, Xiao Li, Yan Lu
 
-- <img src="https://img.shields.io/badge/IEEE_TIP-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Unsupervised Temporal Correspondence Learning for Unified Video Object Removal](https://ieeexplore.ieee.org/document/10359477), Zhongdao Wang*, Jinglu Wang, Xiao Li, Ya-Li Li, Yan Lu, Shengjin Wang
+- <img src="https://img.shields.io/badge/IEEE_TIP-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Unsupervised Temporal Correspondence Learning for Unified Video Object Removal](https://ieeexplore.ieee.org/document/10359477)
+
+  Zhongdao Wang*, Jinglu Wang, Xiao Li, Ya-Li Li, Yan Lu, Shengjin Wang
 
 - <img src="https://img.shields.io/badge/ACM_TOMM-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Distribution Aligned Multimodal and Multi-Domain Image Stylization](https://arxiv.org/pdf/2006.01431), Minxuan Lin, Fan Tang, Weiming Dong, Xiao Li, Chongyang Ma, Changsheng Xu
 
 ## <i class="fa fa-paper-plane"></i> Preprints
+- <img src="https://img.shields.io/badge/arXiv-blue"> <img src="https://img.shields.io/badge/Paper-red"> StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams
+
+  Shiu-hong Kao*, Xiao Li, Jinglu Wang, Chi-Keung Tang, Yu-Wing Tai, Yan Lu
+
+- <img src="https://img.shields.io/badge/arXiv-blue"> <img src="https://img.shields.io/badge/Paper-red"> [UVRM: A Scalable 3D Reconstruction Model from Unposed Videos](https://arxiv.org/pdf/2501.09347)
+
+  Yang Li*, Jinglu Wang, Lei Chu, Xiao Li, Shiu-Hong Kao\*, Yingcong Chen, Yan Lu
+
 - <img src="https://img.shields.io/badge/arXiv-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/leehsiu/nerfactory) [Estimating Neural Reflectance Field from Radiance Field using Tree Structures](https://arxiv.org/pdf/2210.04217)
   
   Xiu Li*, Xiao Li, Yan Lu
@@ -139,12 +149,12 @@ My current research interests are multi-modality, 3D generative models, and neur
 <span class='anchor' id='interns'></span>
 
 # 📖 Interns
-- Rongyu Chen, (Ph.D. candidate, National University of Singapore, 2025.01 - Current)
-- Daniel Shiu-hong Kao, (M.Phil. student, HKUST, 2024.06 - 2024.12): Incoming Ph.D. student.
-- Qi Chen (B.Eng. student, SJTU, 2023.04 - 2024.05): Now Ph.D. student at SJTU.
-- Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03): Now Algorithm Engineer at ByteDance.
-- Kun Yan, (Ph.D. candidate, Peking Univ., 2022.03 - 2023.03):, Now Postdoc at Peking Univ.
-- Xiu Li, (Ph.D. candidate, Tsinghua Univ., 2021.03 - 2022.03): Now Research Scientist at ByteDance.
-- Gusi Te, (M.S. candidate, Peking Univ., 2021.05 - 2021.12): Now Ph.D. candidate at Peking Univ.
-- Qian Wan, (B.Eng., Wuhan Univ., 2020.09 - 2021.04): Now Ph.D. candidate at City Univ. of Hong Kong.
+- Rongyu Chen, (Ph.D. candidate, National Univ. of Singapore, 2025.01 - Current)
+- Daniel Shiu-hong Kao, (M.Phil. student, HKUST, 2024.06 - 2024.12) -> Incoming Ph.D. student at National Univ. of Singapore.
+- Qi Chen (B.Eng. student, SJTU, 2023.04 - 2024.05) -> Ph.D. student at SJTU.
+- Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03) -> Algorithm Engineer at ByteDance.
+- Kun Yan, (Ph.D. candidate, Peking Univ., 2022.03 - 2023.03) -> Postdoc at Peking Univ.
+- Xiu Li, (Ph.D. candidate, Tsinghua Univ., 2021.03 - 2022.03) -> Research Scientist at ByteDance.
+- Gusi Te, (M.S. candidate, Peking Univ., 2021.05 - 2021.12) -> Ph.D. candidate at Peking Univ.
+- Qian Wan, (B.Eng., Wuhan Univ., 2020.09 - 2021.04) -> Ph.D. candidate at City Univ. of Hong Kong.
 
