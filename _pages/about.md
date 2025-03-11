@@ -108,7 +108,9 @@ My current research interests are multi-modality, 3D generative models, and neur
 
   Zhongdao Wang*, Jinglu Wang, Xiao Li, Ya-Li Li, Yan Lu, Shengjin Wang
 
-- <img src="https://img.shields.io/badge/ACM_TOMM-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Distribution Aligned Multimodal and Multi-Domain Image Stylization](https://arxiv.org/pdf/2006.01431), Minxuan Lin, Fan Tang, Weiming Dong, Xiao Li, Chongyang Ma, Changsheng Xu
+- <img src="https://img.shields.io/badge/ACM_TOMM-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Distribution Aligned Multimodal and Multi-Domain Image Stylization](https://arxiv.org/pdf/2006.01431)
+  
+  Minxuan Lin, Fan Tang, Weiming Dong, Xiao Li, Chongyang Ma, Changsheng Xu
 
 ## <i class="fa fa-paper-plane"></i> Preprints
 - <img src="https://img.shields.io/badge/arXiv-blue"> <img src="https://img.shields.io/badge/Paper-red"> StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams
