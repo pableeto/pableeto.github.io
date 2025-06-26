@@ -27,7 +27,8 @@ During the internship I was mentored by [Xin Tong](https://www.microsoft.com/en-
 
 ([Here](https://mp.weixin.qq.com/s?__biz=MzA4NzIyMDY0OA==&mid=2655393474&idx=1&sn=7268b5e38dddbb216f6354de3a9cf1e4&scene=19#wechat_redirect) is an article about my wonderful internship experience at MSRA.)
 
-My current research interests are multi-modality, 3D generative models, and neural rendering. I also have worked deeply in the field of material appearance modeling and 3D reconstruction. I have published 20+ papers at top-tier conferences and journals such as SIGGRAPH, CVPR, ICCV, ECCV, etc. Please drop me an email if you are interested in research internships or collaborations.
+My current main research interest is (video centric) multi-modality. I also have worked deeply in the field of material appearance modeling, 3D reconstruction, and video segmentation. I have published 20+ papers at top-tier conferences and journals such as SIGGRAPH, CVPR, ICCV, AAAI, TIP, etc.
+Please drop me an email if you are interested in research internships or collaborations.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
