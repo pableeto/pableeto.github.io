@@ -44,7 +44,7 @@ Please drop me an email if you are interested in research internships or collabo
 
   Xiao Li†, Qi Chen†*, Xiulian Peng, Kai Yu, Xie Chen, Yan Lu
 
-- <img src="https://img.shields.io/badge/ICCV-2025-blue"> StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams
+- <img src="https://img.shields.io/badge/ICCV-2025-blue"> <img src="https://img.shields.io/badge/Paper-red"> [StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams](https://arxiv.org/pdf/2503.06235.pdf)
 
   Yang Li*, Jinglu Wang, Lei Chu, Xiao Li, Shiu-hong Kao\*, Ying-Cong Chen, Yan Lu
 
@@ -122,10 +122,6 @@ Please drop me an email if you are interested in research internships or collabo
   Minxuan Lin, Fan Tang, Weiming Dong, Xiao Li, Chongyang Ma, Changsheng Xu
 
 ## <i class="fa fa-paper-plane"></i> Preprints
-- <img src="https://img.shields.io/badge/arXiv-blue"> <img src="https://img.shields.io/badge/Paper-red"> StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams
-
-  Yang Li*, Jinglu Wang, Lei Chu, Xiao Li, Shiu-Hong Kao\*, Yingcong Chen, Yan Lu
-
 - <img src="https://img.shields.io/badge/arXiv-blue"> <img src="https://img.shields.io/badge/Paper-red"> [UVRM: A Scalable 3D Reconstruction Model from Unposed Videos](https://arxiv.org/pdf/2501.09347)
 
   Shiu-hong Kao*, Xiao Li, Jinglu Wang, Chi-Keung Tang, Yu-Wing Tai, Yan Lu
@@ -160,12 +156,13 @@ Please drop me an email if you are interested in research internships or collabo
 <span class='anchor' id='interns'></span>
 
 # 📖 Interns
-- Rongyu Chen, (Ph.D. candidate, National Univ. of Singapore, 2025.01 - Current)
+- Yuchen Guan, (M.S. candidate, Tsinghua Univ. SIGS, 2025.06 - Current)
+- Rongyu Chen, (Ph.D. candidate, National Univ. of Singapore, 2025.01 - 2025.07)
 - Daniel Shiu-hong Kao, (M.Phil. student, HKUST, 2024.06 - 2024.12) -> Incoming Ph.D. student at National Univ. of Singapore.
 - Qi Chen (B.Eng. student, SJTU, 2023.04 - 2024.05) -> Ph.D. student at SJTU.
 - Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03) -> Algorithm Engineer at ByteDance.
 - Kun Yan, (Ph.D. candidate, Peking Univ., 2022.03 - 2023.03) -> Postdoc at Peking Univ.
 - Xiu Li, (Ph.D. candidate, Tsinghua Univ., 2021.03 - 2022.03) -> Research Scientist at ByteDance.
 - Gusi Te, (M.S. candidate, Peking Univ., 2021.05 - 2021.12) -> Ph.D. candidate at Peking Univ.
-- Qian Wan, (B.Eng., Wuhan Univ., 2020.09 - 2021.04) -> Ph.D. candidate at City Univ. of Hong Kong.
+- Qian Wan, (B.Eng. student, Wuhan Univ., 2020.09 - 2021.04) -> Ph.D. candidate at City Univ. of Hong Kong.
 
