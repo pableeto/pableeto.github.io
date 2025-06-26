@@ -38,7 +38,15 @@ My current research interests are multi-modality, 3D generative models, and neur
 # 📝 Publications (<a href='https://scholar.google.com/citations?user=hEPx3rwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 (*: Intern at MSRA; †: Equal contribution.)
 
-## <i class="fa fa-paper-plane"></i> Conference Papers
+## <i class="fa fa-paper-plane"></i> Conference Papers 
+- <img src="https://img.shields.io/badge/ICCV-2025-blue"> Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video
+
+  Xiao Li†, Qi Chen†*, Xiulian Peng, Kai Yu, Xie Chen, Yan Lu
+
+- <img src="https://img.shields.io/badge/ICCV-2025-blue"> StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams
+
+  Yang Li*, Jinglu Wang, Lei Chu, Xiao Li, Shiu-hong Kao\*, Ying-Cong Chen, Yan Lu
+
 - <img src="https://img.shields.io/badge/ICCV-2023-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Efficient View Synthesis with Neural Radiance Distribution Field](https://arxiv.org/pdf/2308.11130.pdf)
 
   Yushuang Wu*, Xiao Li, Jinglu Wang, Xiaoguang Han, Shuguang Cui, Yan Lu
