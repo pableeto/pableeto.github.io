@@ -156,6 +156,7 @@ Please drop me an email if you are interested in research internships or collabo
 <span class='anchor' id='interns'></span>
 
 # 📖 Interns
+- Feier Qin, (M.S. student, Communication Univ. of China, Incoming)
 - Yuchen Guan, (M.S. candidate, Tsinghua Univ. SIGS, 2025.06 - Current)
 - Rongyu Chen, (Ph.D. candidate, National Univ. of Singapore, 2025.01 - 2025.07)
 - Daniel Shiu-hong Kao, (M.Phil. student, HKUST, 2024.06 - 2024.12) -> Incoming Ph.D. student at National Univ. of Singapore.
