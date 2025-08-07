@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a senior researcher in [Media Computing group](https://www.microsoft.com/en-us/research/group/media-computing-group/) at [Microsoft Research Asia (MSRA)](https://www.msra.cn/). 
+I am currently a senior researcher in [Future Media Experience Team](https://www.microsoft.com/en-us/research/group/media-computing-group/) at [Microsoft Research Asia (MSRA)](https://www.msra.cn/). 
 Prior to joining MSRA, I was a researcher / alogrithm engineer in Graphics AI team at [Kuaishou Technology (Kwai Inc.)](https://www.kuaishou.com/) from 2019 to 2020.
 
 I got my Ph.D. degree from the joint Ph.D. program between [Unitersity of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) and MSRA in 2019, under the supervision of Dr. Baining Guo and Dr. Yong Wang. I obtained my B.Eng. degree in Eletronic Engineering also from USTC in 2013. 
