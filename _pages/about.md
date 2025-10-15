@@ -40,7 +40,7 @@ Please drop me an email if you are interested in research internships or collabo
 (*: Intern at MSRA; †: Equal contribution.)
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers 
-- <img src="https://img.shields.io/badge/ICCV-2025-blue"> Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video
+- <img src="https://img.shields.io/badge/ICCV-2025-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video](https://arxiv.org/pdf/2509.08376)
 
   Xiao Li†, Qi Chen†*, Xiulian Peng, Kai Yu, Xie Chen, Yan Lu
 
