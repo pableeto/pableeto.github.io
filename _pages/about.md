@@ -40,7 +40,7 @@ Please drop me an email if you are interested in research internships or collabo
 (*: Intern at MSRA; †: Equal contribution.)
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers 
-- <img src="https://img.shields.io/badge/CVPR-2026-blue"> <img src="https://img.shields.io/badge/Code-red">[https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence] [Bringing Your Portrait to 3D Presence](https://arxiv.org/abs/2511.22553)
+- <img src="https://img.shields.io/badge/CVPR-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence) [Bringing Your Portrait to 3D Presence](https://arxiv.org/abs/2511.22553)
 
   Jiawei Zhang*, Lei Chu, Jiahao Li, Zhenyu Zang, Chong Li, Xiao Li, Xun Cao, Hao Zhu, Yan Lu
 
