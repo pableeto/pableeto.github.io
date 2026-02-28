@@ -40,6 +40,18 @@ Please drop me an email if you are interested in research internships or collabo
 (*: Intern at MSRA; †: Equal contribution.)
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers 
+- <img src="https://img.shields.io/badge/CVPR-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Bringing Your Portrait to 3D Presence](https://arxiv.org/abs/2511.22553)
+
+  Jiawei Zhang*, Lei Chu, Jiahao Li, Zhenyu Zang, Chong Li, Xiao Li, Xun Cao, Hao Zhu, Yan Lu
+
+- <img src="https://img.shields.io/badge/CVPR-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search](https://arxiv.org/pdf/2601.13719)
+
+  Xinlei Yin*, Xiulian Peng, Xiao Li, Zhiwei Xiong, Yan Lu
+
+- <img src="https://img.shields.io/badge/CHI-2026-blue"> Toward Natural and Companionable Virtual Agents via Cross-Temporal Emotional Modeling
+
+  Feier Qin*, Xiao Li, Yi Zheng, Haibin Huang, Hanyao Wang, Xiaoyu Wang, Yan Lu, Yuan Zhang
+
 - <img src="https://img.shields.io/badge/ICCV-2025-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video](https://arxiv.org/pdf/2509.08376)
 
   Xiao Li†, Qi Chen†*, Xiulian Peng, Kai Yu, Xie Chen, Yan Lu
@@ -159,11 +171,11 @@ Please drop me an email if you are interested in research internships or collabo
 - Feier Qin, (M.S. student, Communication Univ. of China, 2025.07 - Current)
 - Yuchen Guan, (M.S. candidate, Tsinghua Univ. SIGS, 2025.06 - Current)
 - Rongyu Chen, (Ph.D. candidate, National Univ. of Singapore, 2025.01 - 2025.07)
-- Daniel Shiu-hong Kao, (M.Phil. student, HKUST, 2024.06 - 2024.12) -> Incoming Ph.D. student at National Univ. of Singapore.
+- Daniel Shiu-hong Kao, (M.Phil. student, HKUST, 2024.06 - 2024.12) -> Ph.D. student at National Univ. of Singapore.
 - Qi Chen (B.Eng. student, SJTU, 2023.04 - 2024.05) -> Ph.D. student at SJTU.
 - Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03) -> Algorithm Engineer at ByteDance.
-- Kun Yan, (Ph.D. candidate, Peking Univ., 2022.03 - 2023.03) -> Postdoc at Peking Univ.
+- Kun Yan, (Ph.D. candidate, Peking Univ., 2022.03 - 2023.03) -> Associate Researcher at Peking Univ.
 - Xiu Li, (Ph.D. candidate, Tsinghua Univ., 2021.03 - 2022.03) -> Research Scientist at ByteDance.
-- Gusi Te, (M.S. candidate, Peking Univ., 2021.05 - 2021.12) -> Ph.D. candidate at Peking Univ.
-- Qian Wan, (B.Eng. student, Wuhan Univ., 2020.09 - 2021.04) -> Ph.D. candidate at City Univ. of Hong Kong.
+- Gusi Te, (M.S. candidate, Peking Univ., 2021.05 - 2021.12)
+- Qian Wan, (B.Eng. student, Wuhan Univ., 2020.09 - 2021.04) -> Research Fellow at Nanyang Technological University.
 
