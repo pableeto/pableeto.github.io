@@ -27,7 +27,7 @@ During the internship I was mentored by [Xin Tong](https://www.microsoft.com/en-
 
 ([Here](https://mp.weixin.qq.com/s?__biz=MzA4NzIyMDY0OA==&mid=2655393474&idx=1&sn=7268b5e38dddbb216f6354de3a9cf1e4&scene=19#wechat_redirect) is an article about my wonderful internship experience at MSRA.)
 
-My current main research interest is (video centric) multi-modality. I also have worked deeply in the field of material appearance modeling, 3D reconstruction, and video segmentation. I have published 20+ papers at top-tier conferences and journals such as SIGGRAPH, CVPR, ICCV, ECCV, CHI, etc.
+My current main research interest is multi-modal agentic experiences. I also have worked on several specific topics including material appearance modeling, 3D reconstruction, neural rendering, and video understanding. My research works are published at top-tier conferences (SIGGRAPH, CVPR, ICCV, ECCV, CHI, ICML, etc.) and journals (TIP, TMM, TOMM, etc.).
 Please drop me an email if you are interested in research internships or collaborations.
 
 <!-- # 🔥 News
@@ -40,12 +40,12 @@ Please drop me an email if you are interested in research internships or collabo
 (*: Intern at MSRA; †: Equal contribution.)
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers 
-- <img src="https://img.shields.io/badge/ICML-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> Lightning Fast Long-Video Understanding with Neural Knowledge Representations
+- <img src="https://img.shields.io/badge/ICML-2026-blue"> Lightning Fast Long-Video Understanding with Neural Knowledge Representations
 
   Yuchen Guan*, Xiao Li, Zongyu Guo, Xiaoyi Zhang, Xiulian Peng, Chun Yuan, Yan Lu
 
-- <img src="https://img.shields.io/badge/ICML-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> Vision in One Vector: Implicit Visual Compression with Diffusion Foundation Models
-
+- <img src="https://img.shields.io/badge/ICML-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/microsoft/VisionAsAdaptations) [Vision in On e Vector: Implicit Visual Compression with Diffusion Foundation Models](https://arxiv.org/pdf/2603.07615)
+  
   Jiajun He*, Zongyu Guo, Zhaoyang Jia, Xiaoyi Zhang, Jiahao Li, Xiao Li, Bin Li, José Miguel Hernández-Lobato, Yan Lu
 
 - <img src="https://img.shields.io/badge/CVPR-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence) [Bringing Your Portrait to 3D Presence](https://arxiv.org/abs/2511.22553)
@@ -56,7 +56,7 @@ Please drop me an email if you are interested in research internships or collabo
 
   Xinlei Yin*, Xiulian Peng, Xiao Li, Zhiwei Xiong, Yan Lu
 
-- <img src="https://img.shields.io/badge/CHI-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> Toward Natural and Companionable Virtual Agents via Cross-Temporal Emotional Modeling
+- <img src="https://img.shields.io/badge/CHI-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Toward Natural and Companionable Virtual Agents via Cross-Temporal Emotional Modeling]({{ '/pdf/chi_26.pdf' | relative_url }})
 
   Feier Qin*, Xiao Li, Yi Zheng, Haibin Huang, Hanyao Wang, Xiaoyu Wang, Yan Lu, Yuan Zhang
 
