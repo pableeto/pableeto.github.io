@@ -40,6 +40,14 @@ Please drop me an email if you are interested in research internships or collabo
 (*: Intern at MSRA; †: Equal contribution.)
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers 
+- <img src="https://img.shields.io/badge/ICML-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> Lightning Fast Long-Video Understanding with Neural Knowledge Representations
+
+  Yuchen Guan*, Xiao Li, Zongyu Guo, Xiaoyi Zhang, Xiulian Peng, Chun Yuan, Yan Lu
+
+- <img src="https://img.shields.io/badge/ICML-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> Vision in One Vector: Implicit Visual Compression with Diffusion Foundation Models
+
+  Jiajun He*, Zongyu Guo, Zhaoyang Jia, Xiaoyi Zhang, Jiahao Li, Xiao Li, Bin Li, José Miguel Hernández-Lobato, Yan Lu
+
 - <img src="https://img.shields.io/badge/CVPR-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence) [Bringing Your Portrait to 3D Presence](https://arxiv.org/abs/2511.22553)
 
   Jiawei Zhang*, Lei Chu, Jiahao Li, Zhenyu Zang, Chong Li, Xiao Li, Xun Cao, Hao Zhu, Yan Lu
