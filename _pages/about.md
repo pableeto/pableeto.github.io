@@ -40,7 +40,7 @@ Please drop me an email if you are interested in research internships or collabo
 (*: Intern at MSRA; †: Equal contribution.)
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers 
-- <img src="https://img.shields.io/badge/ICML-2026-blue"> Lightning Fast Long-Video Understanding with Neural Knowledge Representations
+- <img src="https://img.shields.io/badge/ICML-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Lightning Fast Long-Video Understanding with Neural Knowledge Representations](https://arxiv.org/pdf/2606.11913)
 
   Yuchen Guan*, Xiao Li, Zongyu Guo, Xiaoyi Zhang, Xiulian Peng, Chun Yuan, Yan Lu
 
@@ -48,7 +48,7 @@ Please drop me an email if you are interested in research internships or collabo
   
   Jiajun He*, Zongyu Guo, Zhaoyang Jia, Xiaoyi Zhang, Jiahao Li, Xiao Li, Bin Li, José Miguel Hernández-Lobato, Yan Lu
 
-- <img src="https://img.shields.io/badge/CVPR-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence) [Bringing Your Portrait to 3D Presence](https://arxiv.org/abs/2511.22553)
+- <img src="https://img.shields.io/badge/CVPR-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence) [Bringing Your Portrait to 3D Presence](https://arxiv.org/pdf/2511.22553)
 
   Jiawei Zhang*, Lei Chu, Jiahao Li, Zhenyu Zang, Chong Li, Xiao Li, Xun Cao, Hao Zhu, Yan Lu
 
@@ -56,7 +56,7 @@ Please drop me an email if you are interested in research internships or collabo
 
   Xinlei Yin*, Xiulian Peng, Xiao Li, Zhiwei Xiong, Yan Lu
 
-- <img src="https://img.shields.io/badge/CHI-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Toward Natural and Companionable Virtual Agents via Cross-Temporal Emotional Modeling]({{ '/pdf/chi_26.pdf' | relative_url }})
+- <img src="https://img.shields.io/badge/CHI-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Toward Natural and Companionable Virtual Agents via Cross-Temporal Emotional Modeling](https://arxiv.org/pdf/2605.15812)
 
   Feier Qin*, Xiao Li, Yi Zheng, Haibin Huang, Hanyao Wang, Xiaoyu Wang, Yan Lu, Yuan Zhang
 
