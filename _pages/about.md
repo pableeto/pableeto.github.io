@@ -44,7 +44,7 @@ Please drop me an email if you are interested in research internships or collabo
 
   Yuchen Guan*, Xiao Li, Zongyu Guo, Xiaoyi Zhang, Xiulian Peng, Chun Yuan, Yan Lu
 
-- <img src="https://img.shields.io/badge/ICML-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/microsoft/VisionAsAdaptations) [Vision in On e Vector: Implicit Visual Compression with Diffusion Foundation Models](https://arxiv.org/pdf/2603.07615)
+- <img src="https://img.shields.io/badge/ICML-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/microsoft/VisionAsAdaptations) [Vision in One Vector: Implicit Visual Compression with Diffusion Foundation Models](https://arxiv.org/pdf/2603.07615)
   
   Jiajun He*, Zongyu Guo, Zhaoyang Jia, Xiaoyi Zhang, Jiahao Li, Xiao Li, Bin Li, José Miguel Hernández-Lobato, Yan Lu
 
@@ -177,11 +177,11 @@ Please drop me an email if you are interested in research internships or collabo
 
 # 📖 Interns
 - Feier Qin, (M.S. student, Communication Univ. of China, 2025.07 - Current)
-- Yuchen Guan, (M.S. candidate, Tsinghua Univ. SIGS, 2025.06 - Current)
-- Rongyu Chen, (Ph.D. candidate, National Univ. of Singapore, 2025.01 - 2025.07)
+- Yuchen Guan, (M.S. candidate, Tsinghua Univ. SIGS, 2025.06 - 2026.07) -> Algorithm Engineer at ModelBest (面壁智能).
+- Rongyu Chen, (Ph.D. candidate, National Univ. of Singapore, 2025.01 - 2025.07) -> Technical Staff at Meta.
 - Daniel Shiu-hong Kao, (M.Phil. student, HKUST, 2024.06 - 2024.12) -> Ph.D. student at National Univ. of Singapore.
 - Qi Chen (B.Eng. student, SJTU, 2023.04 - 2024.05) -> Ph.D. student at SJTU.
-- Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03) -> Algorithm Engineer at ByteDance.
+- Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03) -> Algorithm Engineer at VAST.
 - Kun Yan, (Ph.D. candidate, Peking Univ., 2022.03 - 2023.03) -> Associate Researcher at Peking Univ.
 - Xiu Li, (Ph.D. candidate, Tsinghua Univ., 2021.03 - 2022.03) -> Research Scientist at ByteDance.
 - Gusi Te, (M.S. candidate, Peking Univ., 2021.05 - 2021.12)
