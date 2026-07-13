@@ -27,12 +27,16 @@ During the internship I was mentored by [Xin Tong](https://www.microsoft.com/en-
 
 ([Here](https://mp.weixin.qq.com/s?__biz=MzA4NzIyMDY0OA==&mid=2655393474&idx=1&sn=7268b5e38dddbb216f6354de3a9cf1e4&scene=19#wechat_redirect) is an article about my wonderful internship experience at MSRA.)
 
-My current main research interest is multi-modal agentic experiences. I also have worked on several specific topics including material appearance modeling, 3D reconstruction, neural rendering, and video understanding. My research works are published at top-tier conferences (SIGGRAPH, CVPR, ICCV, ECCV, CHI, ICML, etc.) and journals (TIP, TMM, TOMM, etc.).
+My current main research interest is multi-modal agentic experiences. I also have worked on several specific topics including material appearance modeling, 3D reconstruction, neural rendering, and video understanding. My research works are published at top-tier conferences (SIGGRAPH, CVPR, ICCV, ECCV, CHI, ICML, etc.) and journals (TIP, TMM, etc.).
 Please drop me an email if you are interested in research internships or collaborations.
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+### 🔥 Research Internship Oppertunities!
+I am looking for one or more research interns to work on research projects related to:
+(1) multimodal agent experiences,
+(2) agent memory, or
+(3) human–agent collaboration.
+Please feel free to email me if you are interested in any of these topics.
+
 
 <span class='anchor' id='publications'></span>
 
