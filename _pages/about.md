@@ -43,12 +43,18 @@ Please feel free to email me if you are interested in any of these topics.
 # 📝 Publications (<a href='https://scholar.google.com/citations?user=hEPx3rwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 (*: Intern at MSRA; †: Equal contribution.)
 
+## <i class="fa fa-paper-plane"></i> Tech Reports 
+- <img src="https://img.shields.io/badge/arXiv-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/microsoft/Mage) [Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing](https://arxiv.org/pdf/2607.19064)
+  
+  MAGE Team @ Microsoft Future Media Experience Group
+
+
 ## <i class="fa fa-paper-plane"></i> Conference Papers 
 - <img src="https://img.shields.io/badge/ICML-2026-blue"> <img src="https://img.shields.io/badge/Paper-red"> [Lightning Fast Long-Video Understanding with Neural Knowledge Representations](https://arxiv.org/pdf/2606.11913)
 
   Yuchen Guan*, Xiao Li, Zongyu Guo, Xiaoyi Zhang, Xiulian Peng, Chun Yuan, Yan Lu
 
-- <img src="https://img.shields.io/badge/ICML-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/microsoft/VisionAsAdaptations) [Vision in One Vector: Implicit Visual Compression with Diffusion Foundation Models](https://arxiv.org/pdf/2603.07615)
+- <img src="https://img.shields.io/badge/ICML-2026-blue"> [<img src="https://img.shields.io/badge/Code-red">](https://github.com/microsoft/VisionAsAdaptations) [Compression as Adaption: Implicit Visual Compression with Diffusion Foundation Models](https://arxiv.org/pdf/2603.07615)
   
   Jiajun He*, Zongyu Guo, Zhaoyang Jia, Xiaoyi Zhang, Jiahao Li, Xiao Li, Bin Li, José Miguel Hernández-Lobato, Yan Lu
 
